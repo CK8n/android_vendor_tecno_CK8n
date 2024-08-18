@@ -1,0 +1,17 @@
+{
+    "version":20240301,
+    "support":1,
+    "game_space_list":[
+        "com.mobile.legends",
+        "com.dts.freefireth",
+        "com.dts.freefiremax",
+        "com.tencent.ig",
+        "com.tencent.tmgp.pubgmhd",
+        "com.rekoo.pubgm",
+        "com.vng.pubgmobile",
+        "com.tencent.iglite",
+        "com.tencent.igce",
+        "com.pubg.krmobile",
+        "com.pubg.imobile"
+    ]
+}
